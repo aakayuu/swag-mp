@@ -8,7 +8,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NIC
+		owner = 
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -20,7 +20,7 @@ state={
 			}
 
 		}
-		add_core_of = NIC
+		add_core_of = 
 		victory_points = {
 			12738 3
 		}
@@ -33,7 +33,7 @@ state={
 	provinces={
 		1988 2075 10728 12738 13139 13178 
 	}
-	manpower=683000
+	manpower=1
 	buildings_max_level_factor=1.000
 
 	local_supplies=0.0 

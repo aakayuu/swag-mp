@@ -11,29 +11,6 @@ state = {
 
 	history = {
 
-		owner = ARG
-		add_core_of = ARG
-		add_core_of = WLA
-
-		buildings = {
-			infrastructure = 1
-			10953 = {
-				naval_base = 1
-			}
-		}
-
-		victory_points = {
-			13307 2 
-		}
-
-		victory_points = {
-			10953 3 
-		}
-
-		victory_points = {
-			8161 1 
-		}
-		
 	}
 
 	provinces = {

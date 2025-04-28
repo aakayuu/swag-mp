@@ -1,9 +1,8 @@
-version="1.16.5"
+version="1.16.4"
 tags={
-	"Alternative History"
-	"Balance"
-	"Translation"
+	"Events"
+	"Map"
 }
 name="swag mp"
 supported_version="1.16.4"
-remote_file_id="3465347168"
+remote_file_id="3470979410"

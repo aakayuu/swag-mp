@@ -12,29 +12,6 @@ state = {
 
 	history = {
 
-		owner = MEX
-		add_core_of = MEX
-		add_core_of = RIG
-
-		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 1
-		}
-		
-		victory_points = {
-			12835 10
-		}
-		victory_points = {
-			10769 5
-		}
-		#victory_points = {
-		#	2060 3
-		#}
-		victory_points = {
-			12811 1
-		}
-
 	}
 
 	provinces = {

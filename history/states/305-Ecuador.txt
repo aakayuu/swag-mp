@@ -2,7 +2,7 @@
 state = {
 	id = 305
 	name = "STATE_305"
-	manpower = 2000000
+	manpower = 1
 
 	resources = {
 		oil = 2 # was: 2
@@ -12,8 +12,8 @@ state = {
 
 	history = {
 
-		owner = ECU
-		add_core_of = ECU
+		owner = 
+		add_core_of = 
 
 		buildings = {
 			infrastructure = 2

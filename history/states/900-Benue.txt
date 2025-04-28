@@ -6,10 +6,9 @@ state = {
 
 	history = {
 
-		owner = ENG
+		owner = FRA
 
-		add_core_of = NGA
-		add_core_of = BIA
+		add_core_of = FRA
 
 		victory_points = {
 			8034 2 # Enugu

@@ -2,7 +2,7 @@
 state={
 	id=493
 	name="STATE_493"
-	manpower = 2826781
+	manpower = 1
 	resources={
 		oil=15 # was: 20
 	}
@@ -10,7 +10,7 @@ state={
 	state_category = town
 
 	history={
-		owner = COL
+		owner = 
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -22,7 +22,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = COL
+		add_core_of = 
 		victory_points = {
 			2023 1 
 		}

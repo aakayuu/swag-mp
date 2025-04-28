@@ -2,15 +2,15 @@
 state = {
 	id = 935
 	name = "STATE_935"
-	manpower = 1632000 # A third from Rio Grande
+	manpower = 1 # A third from Rio Grande
 
 	state_category = town
 
 	history = {
 
-		owner = BRA
+		owner = 
 
-		add_core_of = BRA
+		add_core_of = 
 
 		buildings = {
 			infrastructure = 2 #was: 5
